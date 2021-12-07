@@ -39,3 +39,4 @@ for (pos in 0:1986){
 }
 print(minFuel)
 
+
